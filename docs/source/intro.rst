@@ -1,5 +1,9 @@
+Introduction
+*************
+
+
 Benefits of selenium-pro over selenium
-***************************
+########################################
 
 * All the capabilities of Selenium +
 * Auto write scripts using Selenium Script Generator
@@ -13,12 +17,12 @@ Benefits of selenium-pro over selenium
 It uses selenium to automate the things. You can use its inbuilt functions in a very easy way.
 
 Installation/Usage:
-*******************
+########################################
 
 Command to install :- ``pip install selenium-pro``
 
 Import selenium-pro
-**************************************************
+########################################
 .. code-block:: python
 
 	from selenium_pro.webdriver.common.keys import Keys
