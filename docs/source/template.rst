@@ -29,7 +29,7 @@ Start Browser
 Login with Cookies
 ===================
 
-``driver.set_cookies(cookie_dic)``
+``cookies_required``
 
 
 Code
