@@ -11,7 +11,4 @@ Selenium Pro
    :caption: Contents:
 
    intro
-   instagram
-   instagramscrap
-   youtube_video_comments
-   youtube video comments
+   
