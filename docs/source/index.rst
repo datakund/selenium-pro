@@ -12,4 +12,4 @@ Selenium Pro
 
    intro
    facebook scraper
-   Instagram Email Scraper
+   Facebook Scraper
