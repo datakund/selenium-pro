@@ -11,5 +11,4 @@ Selenium Pro
    :caption: Contents:
 
    intro
-   facebook scraper
    Facebook Scraper
