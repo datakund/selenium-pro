@@ -20,3 +20,6 @@ Selenium Pro
    Facebook Scraper
    Instagram Email Scraper
    Youtube video comments
+   Instagram Email Scraper
+   Youtube video comments
+   Facebook Scraper
