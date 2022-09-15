@@ -7,7 +7,7 @@ Selenium Pro
 ====================================
 
 .. toctree::
-   :maxdepth: 5
+   :maxdepth: 20
    :caption: Contents:
 
    intro
