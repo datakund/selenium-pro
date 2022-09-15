@@ -11,6 +11,3 @@ Selenium Pro
    :caption: Contents:
 
    intro
-   Youtube
-   Facebook
-   Instagram
