@@ -12,4 +12,5 @@ Selenium Pro
 
    intro
    youtube_video_comments
-3
+3   youtube_video_comments
+4
