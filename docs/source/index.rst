@@ -11,6 +11,3 @@ Selenium Pro
    :caption: Contents:
 
    intro
-   Youtube video comments
-   Facebook Scraper
-   Instagram Email Scraper
