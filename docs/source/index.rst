@@ -14,4 +14,4 @@ Selenium Pro
    instagram
    instagramscrap
    youtube_video_comments
-   youtube video comments
+   instagram email scraper
