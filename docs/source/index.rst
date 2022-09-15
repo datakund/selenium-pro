@@ -17,3 +17,6 @@ Selenium Pro
    Instagram Email Scraper
    Youtube video comments
    Facebook Scraper
+   Instagram Email Scraper
+   Youtube video comments
+   Facebook Scraper
