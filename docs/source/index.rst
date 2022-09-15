@@ -11,5 +11,3 @@ Selenium Pro
    :caption: Contents:
 
    intro
-   youtube_video_comments
-4
