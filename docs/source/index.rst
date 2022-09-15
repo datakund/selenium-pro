@@ -15,3 +15,18 @@ Selenium Pro
    Youtube video comments
    Facebook Scraper
    template
+   Eatcake Scraper
+   Enjoylifefoods Scraper
+   Windsorstore Scraper
+   SVS Scraper
+   Tomboy Scraper
+   Dressbarn Scraper
+   Sapphire Scraper
+   Mistore Scraper
+   Carolina Scraper
+   Orgain Scraper
+   Youtube video comments
+   Facebook Scraper
+   Instagram Email Scraper
+   Proscloset Scraper
+   Whitefox Scraper
