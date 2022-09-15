@@ -12,4 +12,4 @@ Selenium Pro
 
    intro
    facebook scraper
-   Youtube video comments
+   Instagram Email Scraper
