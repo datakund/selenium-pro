@@ -14,4 +14,3 @@ Template1
    :maxdepth: 1
    :caption: Contents:
 
-   intross
