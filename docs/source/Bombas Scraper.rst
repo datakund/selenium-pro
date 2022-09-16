@@ -5,35 +5,29 @@ Scraper
 ************
 
 What it does?
-=============
 
 It scrape clothes details
 
 How it works?
-=============
 
 It open Bombas website, search for given keyword and it scrape product name, link ,price
 
 Import
-=============
 
 ``from selenium_pro import webdriver``
 
 
 Start Browser
-=============
 
 ``driver=webdriver.Start()``
 
 
 Login with Cookies
-===================
 
 ``Cookies not required``
 
 
 Code
-===========
 
 .. tabs::
 
@@ -64,6 +58,5 @@ Code
 	    link=list_element.find_element_by_pro('lOARRuusAlQRE2i').get_attribute('href')
 
 Selenium pro
-==============
 
 selenium-pro is advanced version on selenium which does not require any html elements
