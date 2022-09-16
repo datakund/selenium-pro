@@ -12,3 +12,7 @@ Selenium Pro
 
    intro
    test
+   Youtube
+   Instagram
+   Facebook
+   Scraper
