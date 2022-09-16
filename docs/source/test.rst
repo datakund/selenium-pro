@@ -10,15 +10,6 @@ Scrapers
    :maxdepth: 2
    :caption: Contents:
 
-   Eatcake Scraper
-   Windsorstore Scraper
-   Orgain Scraper
-   Whitefox Scraper
-   Enjoylifefoods Scraper
-   SVS Scraper
-   Dressbarn Scraper
-   Tomboy Scraper
-   Sapphire Scraper
    Carolina Scraper
    Bones Coffee Scraper
    Gymshark UK Scraper
