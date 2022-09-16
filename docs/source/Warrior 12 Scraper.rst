@@ -1,0 +1,71 @@
+Warrior 12 Scraper
+########################
+
+Scraper
+************
+
+What it does?
+=============
+
+It scrape clothes details
+
+How it works?
+=============
+
+It open warrior12 website, search for given keyword and it scrape product name, link ,price
+
+Import
+=============
+
+``from selenium_pro import webdriver``
+
+
+Start Browser
+=============
+
+``driver=webdriver.Start()``
+
+
+Login with Cookies
+===================
+
+``Cookies not required``
+
+
+Code
+===========
+
+.. tabs::
+
+   .. code-tab:: py
+
+        #pip install selenium_pro
+        from selenium_pro import webdriver
+	import time
+	from selenium_pro.webdriver.common.keys import Keys
+	driver = webdriver.Start()
+	# to open the url in browser
+	driver.get('https://warrior12.com/')
+	time.sleep(3)
+	# to click on the element(Search) found
+	driver.find_element_by_pro('SmVLmCaFQKkcn4R').click()
+	# to type content in input field
+	driver.find_element_by_pro('xA5E7tDPKgD6r17').send_keys('shirt')
+	# press Enter key
+	driver.switch_to.active_element.send_keys(Keys.ENTER)
+	time.sleep(3)
+	list_elements=driver.find_elements_by_pro('oxEtPcceEcvyBoJ')
+	for list_element in list_elements:
+	    # to fetch the text of element
+	    price=list_element.find_element_by_pro('obkSnhuZS5OfkMF').text
+	    # to fetch the text of element
+	    descriiption=list_element.find_element_by_pro('kG5uG520hU4yyV3').text
+	    # to fetch the text of element
+	    title=list_element.find_element_by_pro('Hq0aGKX7Lt18CKF').text
+	    # to fetch the link of element
+	    link=list_element.find_element_by_pro('84eFUoyL4mroBqX').get_attribute('href')
+
+Selenium pro
+==============
+
+selenium-pro is advanced version on selenium which does not require any html elements
