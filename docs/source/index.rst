@@ -11,7 +11,7 @@ Selenium Pro
    :caption: Contents:
 
    intro
-   scraper
+   test
 
 
 Indices and tables
