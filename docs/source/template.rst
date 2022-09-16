@@ -45,4 +45,9 @@ Code
 Selenium pro
 ==============
 
-selenium_pro_description
+Selenium pro is intelligent & powerful cloud native selenium.
+You dont need to inspect HTML to deal with xapth,css,id etc.
+All of that is done under the hood
+Just use Selenium Code Generator extension to get code written automatically for you
+Selenium Pro (Link to library)
+Selenium Pro Auto Code Generator (Link to chrome extension)
