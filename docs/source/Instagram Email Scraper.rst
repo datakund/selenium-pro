@@ -31,6 +31,8 @@ Login with Cookies
 
 ``driver.set_cookies(cookie_dic)``
 
+Instagram Email 2
+########################
 
 Code
 ===========
