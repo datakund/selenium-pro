@@ -16,3 +16,14 @@ Selenium Pro
    Whitefox Scraper
    Enjoylifefoods Scraper
    SVS Scraper
+   Dressbarn Scraper
+   Tomboy Scraper
+   Sapphire Scraper
+   Mistore Scraper
+   Proscloset Scraper
+   Carolina Scraper
+   Jonathan Scraper
+   Kbdfan Scraper
+   Draling Scraper
+   Bombas Scraper
+   myjewels Scraper
