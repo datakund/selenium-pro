@@ -7,8 +7,12 @@ Selenium Pro
 ====================================
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :caption: Contents:
 
-   intro
-   test
+   Eatcake Scraper
+   Windsorstore Scraper
+   Orgain Scraper
+   Whitefox Scraper
+   Enjoylifefoods Scraper
+   SVS Scraper
