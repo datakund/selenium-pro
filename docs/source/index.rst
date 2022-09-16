@@ -30,3 +30,11 @@ Selenium Pro
    Instagram Email Scraper
    Proscloset Scraper
    Whitefox Scraper
+
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
