@@ -58,3 +58,5 @@ Scraper
    Economist Scraper
    Gfule
    hexclad Scraper
+  Investopedia Scraper
+  BlendJet Scraper
